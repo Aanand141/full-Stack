@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+/* 
+i have add inline css so its priority is bigger*/
+#heading{
+    color: yellow;
+} 
+.second_heading{
+    background-color: aqua;
+}
+#second{
+    color: brown;
+}

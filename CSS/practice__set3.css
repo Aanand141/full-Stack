@@ -1,0 +1,36 @@
+*{
+    font-family: 'TimeNewRoman';
+}
+.navigation{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    text-decoration: none;
+    text-align: right;
+    text-transform: uppercase;
+    
+}
+#image{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+}
+
+.navigation a {
+    color: #0c1caa;
+    padding: 10px 15px;
+    margin: 20px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.navigation a:hover {
+    color: #33ff4e; /* Changes link color on hover */
+    text-decoration: underline; /* Optionally adds underline */
+}
+#outer {
+    font-size: 25px;
+}
+#inner{
+    font-size: 5px;
+}

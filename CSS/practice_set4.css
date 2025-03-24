@@ -1,0 +1,28 @@
+#first{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+#first button{
+    /*     Q2.- Create a button and give 10px padding to top 
+and bottom and 15px on the sides. */
+    margin: 10px 15px 10px 15px;
+}
+/*     Q3.- Add 100px margin to the button on all sides.- Add dotter border with color red and so much 
+that the button becomes a circle. */
+#second{
+    background-color: blueviolet;
+    width: 350px;
+    height: 300px;
+    box-sizing:content-box;
+}
+#second button{
+    height: 50px;
+    box-sizing: content-box;
+    margin: 100px 100px 100px 100px;
+    border-style: dotted;
+    border-color: red;
+    border-radius: 100px;
+    background-color: aquamarine;
+    color: red;
+}
